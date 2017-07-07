@@ -58,6 +58,6 @@ uWSGI是WSGI在Linux中的一种实现，这样开发者就无须自己编写WSG
 
 
 
-uWSGI Github:   https://github.com/unbit/uwsgi  
-uWSGI 文档：    https://uwsgi-docs.readthedocs.io/en/latest/index.html
+uWSGI Github：https://github.com/unbit/uwsgi  
+uWSGI 文档：https://uwsgi-docs.readthedocs.io/en/latest/index.html  
 uWSGI 中文文档：http://uwsgi-docs-zh.readthedocs.io/zh_CN/latest/index.html
