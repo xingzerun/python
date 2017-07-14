@@ -32,9 +32,9 @@ Django：
 
 	#django-admin startproject djangosite(站点名称）
 第一次建立Django项目是在Ubuntu上，使用的是Python2的环境。出现了如下错误：
-![](http://i.imgur.com/XD7lT8s.png)
-然后听话的执行提示的命令后，又出现：
-![](http://i.imgur.com/4WRJPOW.png)
+![](http://i.imgur.com/XD7lT8s.png)   
+然后听话的执行提示的命令后，又出现:  
+![](http://i.imgur.com/4WRJPOW.png)   
 解决方法：
 
 	sudo apt-get install python-django
