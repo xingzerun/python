@@ -38,5 +38,5 @@ Django：
 解决方法：
 
 	sudo apt-get install python-django
-再次建立项目：
+再次建立项目：  
 ![](http://i.imgur.com/dXBVYYW.png)
