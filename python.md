@@ -1,19 +1,19 @@
 python新手工具下载链接：http://pan.baidu.com/s/1eS8WMR4 
 
- 密码：7eso
+ 密码：7eso  
 注册码：http://idea.liyang.io 
 
 py和编辑器安装教程链接：http://pan.baidu.com/s/1hsoCmhQ 
 
- 密码：rpru
+ 密码：rpru  
 安装pycharm和py2就可以啦 
 py和编辑器安装教程链接：http://pan.baidu.com/s/1hsoCmhQ 
 
- 密码：rpru
+ 密码：rpru   
  汉化视频
 mac版pycharm 链接：http://pan.baidu.com/s/1qYm1ueK 
 
- 密码：kmxt
+ 密码：kmxt   
 
 官网：www.tanzhouedu.com 
 
