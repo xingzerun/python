@@ -1,9 +1,4 @@
-#注意事项
-![](http://i.imgur.com/6NS53gr.png)
-![](http://i.imgur.com/XpZxLaD.png)
-对应链接：https://docs.djangoproject.com/en/1.11/topics/install/
-
-Django：  
+# Django：   
 文档主页：https://docs.djangoproject.com/en/1.11/  
 文档内容：https://docs.djangoproject.com/en/1.11/contents/  
 下面为文档内容中的链接，按目录由上到下  
@@ -12,10 +7,10 @@ Django：
 
 
 
-
-
-
-
+#注意事项
+![](http://i.imgur.com/6NS53gr.png)
+![](http://i.imgur.com/XpZxLaD.png)
+对应链接：https://docs.djangoproject.com/en/1.11/topics/install/
 
 
 ## 安装Django
