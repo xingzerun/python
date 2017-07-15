@@ -7,7 +7,7 @@
 
 
 
-#注意事项
+# 注意事项
 ![](http://i.imgur.com/6NS53gr.png)
 ![](http://i.imgur.com/XpZxLaD.png)
 对应链接：https://docs.djangoproject.com/en/1.11/topics/install/
