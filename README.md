@@ -9,6 +9,3 @@
 
 ## Flask Web.md
 这是基于《FlaskWeb开发》一书，做的笔记。
-
-## Live 文件夹
-记录本人的日常生活
