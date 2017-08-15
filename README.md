@@ -4,6 +4,13 @@
 
 我要好好学Python。
 
+# python ubuntu下安装
+sudo apt-get install python3-dev build-essential libssl-dev libffi-dev libxml2 libxml2-dev libxslt1-dev zlib1g-dev
+
+sudo apt-get install python3
+
+sudo apt-get install python3-pip
+
 ## Python Web Framework 文件夹
 这是基于《python高效开发》这本书所记录的笔记。大部分内容与书中相同，但是对于一些书中运行不了的部分我进行了自己的总结归纳，有助于自己对于知识的掌握。
 
