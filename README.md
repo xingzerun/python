@@ -5,7 +5,7 @@
 我要好好学Python。
 
 **很烦躁，感觉记笔记学习的速度太慢**  
-**暂停所有笔记。感觉自己很浮躁，但是很急迫的想学习更多，然而智商不够...**
+**暂停所有笔记，也可能会把记录的东西再精简，减少打字花费的时间。感觉自己很浮躁，但是很急迫的想学习更多，然而智商不够...**
 
 # python ubuntu下安装
 sudo apt-get install python3-dev build-essential libssl-dev libffi-dev libxml2 libxml2-dev libxslt1-dev zlib1g-dev
